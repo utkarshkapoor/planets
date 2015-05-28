@@ -1,7 +1,9 @@
-<<<<<<< HEAD
+
 Is this a dog?
-=======
+
 is this a dog or a planet?
 
->>>>>>> adc6a6c34a94eae8eefbe5278b02188fdb2a19a7
 made a change
+
+it is neither dog nor planet!
+
